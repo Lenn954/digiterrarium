@@ -1,0 +1,8 @@
+# Robots.txt for Digiterrarium
+# https://digiterrarium.com/
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://digiterrarium.com/sitemap.xml
